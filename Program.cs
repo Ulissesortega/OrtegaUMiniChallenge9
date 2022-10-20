@@ -41,7 +41,9 @@ Console.WriteLine("Let's Pick Random American Food Restaurant");
 string[] Afood = {"Cast Iron", "Cracker Barrel", "American Waffle", "Black Bear", "Country Boys", "Bob's at the marina", "Denny's", "LumberJack's Restaurant", "BBC Eat's", "Top Flight Grill & Cathering"};
 Random random = new Random();
 int resPicker = random.Next(0,11);
+Console.WriteLine("-------------------------------------------");
 Console.WriteLine("Your Restaurant will be " + Afood[resPicker]);
+Console.WriteLine("-------------------------------------------");
 }  
 //---------------------------------------------------------------------------------------------------------------------------------------------------//
 
@@ -51,8 +53,9 @@ Console.WriteLine("Let's Pick Random Japanese Restaurant");
 string[] Jfood = {"Misaki Sushi & Bar", "Cocoro Bistro Sushi & Bar", "Icchiban Teppanyanki & Sushi", "Mikasa Japanese Bistro", "Hana Sushi", "ShoMi Japanese Cusisine", "Shogun Japanese Restaurant", "Shogun Japanese Restaurant", "Matsuyama Restaurant", "Sakana Japanese Bistro"};
 Random random = new Random();
 int resPicker = random.Next(0,11);
+Console.WriteLine("-------------------------------------------");
 Console.WriteLine("Your Restaurant will be " + Jfood[resPicker]);
-
+Console.WriteLine("-------------------------------------------");
 
 }
 //---------------------------------------------------------------------------------------------------------------------------------------------------//
@@ -62,7 +65,9 @@ else if (option ==3)
 string[] Mfood = {"Kabob & Gyro House", "Go Falafel Greek Food", "Yasoo Yani Restaurant", "Yasoo Yani Restaurant", "Super Mediterranean Bistro", "Kabob & Gyro Grill", "Yafa Hummus", "Zanga Mediterranean Cuisine", "Skewers Kabob House", "Mazaa Kabob House"};
 Random random = new Random();
 int resPicker = random.Next(0,11);
+Console.WriteLine("-------------------------------------------");
 Console.WriteLine("Your Restaurant will be " + Mfood[resPicker]);
+Console.WriteLine("-------------------------------------------");
 }
 
 //---------------------------------------------------------------------------------------------------------------------------------------------------//
