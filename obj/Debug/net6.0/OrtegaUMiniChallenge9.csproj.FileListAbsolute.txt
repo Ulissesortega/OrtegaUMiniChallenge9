@@ -1,0 +1,15 @@
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/bin/Debug/net6.0/OrtegaUMiniChallenge9
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/bin/Debug/net6.0/OrtegaUMiniChallenge9.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/bin/Debug/net6.0/OrtegaUMiniChallenge9.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/bin/Debug/net6.0/OrtegaUMiniChallenge9.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/bin/Debug/net6.0/OrtegaUMiniChallenge9.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/refint/OrtegaUMiniChallenge9.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/OrtegaUMiniChallenge9.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge9/obj/Debug/net6.0/ref/OrtegaUMiniChallenge9.dll
